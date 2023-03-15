@@ -1,4 +1,4 @@
 # ProgOO
-#Indice
+## Indice
 
-[Portada](portada.pdf)
+1. [Portada](portada.pdf)
