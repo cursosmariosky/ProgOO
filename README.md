@@ -2,5 +2,4 @@
 ## Indice
 
 1. [Portada](portada.pdf)
-2. [ParadigmaOO](./img/ar.md)
-3. [Polimorfismo](./juego/tg.md)
+2. [Polimorfismo](./juego/tg.md)
